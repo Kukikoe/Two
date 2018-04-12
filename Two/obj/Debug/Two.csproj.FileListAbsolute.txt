@@ -1,0 +1,7 @@
+c:\users\яна\source\repos\Two\Two\bin\Debug\Two.exe.config
+c:\users\яна\source\repos\Two\Two\bin\Debug\Two.exe
+c:\users\яна\source\repos\Two\Two\bin\Debug\Two.pdb
+c:\users\яна\source\repos\Two\Two\obj\Debug\Two.csprojResolveAssemblyReference.cache
+c:\users\яна\source\repos\Two\Two\obj\Debug\Two.csproj.CoreCompileInputs.cache
+c:\users\яна\source\repos\Two\Two\obj\Debug\Two.exe
+c:\users\яна\source\repos\Two\Two\obj\Debug\Two.pdb
